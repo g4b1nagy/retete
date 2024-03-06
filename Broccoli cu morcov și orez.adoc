@@ -1,1 +1,11 @@
-broccoli_cu_morcov_si_orez.adoc
+= Broccoli cu morcov și orez
+
+== Ingrediente
+
+* 1 kg broccoli
+* 1 kg morcov
+* 3 căței usturoi
+* sare
+* piper
+* orez (sau noodles)
+* sos de soia

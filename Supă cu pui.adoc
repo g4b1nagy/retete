@@ -1,1 +1,13 @@
-supa_cu_pui.adoc
+= Supă cu pui
+
+== Ingrediente
+
+* morcov
+* țelină
+* păstârnac
+* pătrunjel (rădăcină)
+* pui
+* ceapă galbenă
+* sare
+* piper
+* pătrunjel tocat (frunză)

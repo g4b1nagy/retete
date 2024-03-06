@@ -1,1 +1,25 @@
-ciocolata_de_casa.adoc
+= Ciocolată de casă
+
+== Ingrediente
+
+* 250 g lapte praf integral (Rarăul)
+* 40 g cacao neagră
+* 100 ml apă
+* 70 g zahăr
+* 100 g unt (80% grăsime)
+* esență vanilie
+* sare
+* opțional, alune, nuci, fistic, stafide
+
+== Instrucțiuni
+
+* cerne laptele praf și cacao într-un bol mare și omogenizează-le cu un tel
+* fierbe apa cu zahăr într-o oală, la foc mare până obții un siros vâscos
+* adaugă untul, esența vanilie și sarea și apoi, treptat, praful de mai sus, amestecând continuu
+* adaugă opționalele
+* toarnă totul într-o tavă, pe foi de copt și dă la frigider pentru 2-3 ore
+
+== Sursa
+
+https://savoriurbane.com/ciocolata-de-casa-baton/
+https://jamilacuisine.ro/ciocolata-de-casa-gustul-copilariei-reteta-video/

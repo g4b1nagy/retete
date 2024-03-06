@@ -1,1 +1,1 @@
-paste_cu_ton.adoc
+= Paste cu ton

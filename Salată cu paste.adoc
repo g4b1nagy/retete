@@ -1,1 +1,13 @@
-salata_cu_paste.adoc
+= Salată cu paste
+
+== Ingrediente
+
+* paste
+* roșii cherry
+* mozzarella
+* măsline
+* lămâie
+* busuioc proaspăt sau baby spinach
+* ulei de măsline
+* sare
+* piper

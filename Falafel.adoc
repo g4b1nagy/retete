@@ -1,1 +1,1 @@
-falafel.adoc
+= Falafel

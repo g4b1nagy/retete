@@ -1,1 +1,10 @@
-somon_la_cuptor_cu_cartofi_dulci.adoc
+= Somon la cuptor cu cartofi dulci
+
+== Ingrediente
+
+* somon
+* cartofi dulci
+* rozmarin
+* sare
+* iaurt
+* usturoi

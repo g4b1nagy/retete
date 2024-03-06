@@ -1,1 +1,15 @@
-pancakes.adoc
+= Pancakes
+
+== Ingrediente
+
+* 300 g făină
+* 400 ml iaurt
+* 50 g unt
+* 4 ouă
+* praf de copt (cât pentru 500 g făină)
+* esență vanilie
+* sare
+
+== Sursa
+
+https://jamilacuisine.ro/pancakes-clatite-americane-reteta-video/

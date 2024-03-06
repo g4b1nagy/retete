@@ -1,1 +1,11 @@
-waffles.adoc
+= Waffles
+
+== Ingrediente
+
+* 250 g făină
+* 2 ouă
+* 75 g unt
+* 350 ml lapte
+* praf de copt (cât pentru 750 g făină)
+* esență vanilie
+* sare

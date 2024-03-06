@@ -1,1 +1,11 @@
-pui_cu_ciuperci_smantana_si_mamaliga.adoc
+= Pui cu ciuperci, smântână și mămăligă
+
+== Ingrediente
+
+* pui
+* ciuperci champignons
+* smântână
+* usturoi
+* sare
+* piper
+* mălai
